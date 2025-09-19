@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "lastfinalfinal",
   "VITE_ORDERLY_BROKER_NAME": "Last Final Final Test",
-  "VITE_DISABLE_MAINNET": "false",
+  "VITE_DISABLE_MAINNET": "true",
   "VITE_DISABLE_TESTNET": "false",
   "VITE_ORDERLY_MAINNET_CHAINS": "",
   "VITE_ORDERLY_TESTNET_CHAINS": "",
